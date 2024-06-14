@@ -250,7 +250,7 @@ header {
   content: "50%";
 }
 .progress-line .c::after {
-  content: "50%";
+  content: "80%";
 }
 
 .navbar.solid {
