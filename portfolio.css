@@ -208,7 +208,7 @@ header {
   width: 50%;
 }
 .progress-line .c {
-  width: 50%;
+  width: 80%;
 }
 
 .bar .progress-line span::before {
